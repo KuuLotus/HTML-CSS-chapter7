@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-visual-image{
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  height: 400px;
+}
+
+.main-visual-text{
+  padding: 20px 0 0 20px;
+  color: gray;
+}
+
+main{
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+ .survise-class{
+  width: 840px;
+  border-bottom: 1px solid gray;
+  margin: 0 auto;
+}
+
+.survise-class-logo{
+  margin-top: 30px;
+}
+
+.survise-class-text{
+  margin-bottom: 30px;
+  color: gray;
+}
+
+a{
+  color: gray;
+}
